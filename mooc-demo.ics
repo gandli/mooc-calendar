@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tobacco-mooc-study//学习任务//CN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:eeb7b66fa2@tobacco-mooc-study
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:【截止】必修 · 必修任务 #1（还差 1 天）
+DESCRIPTION:学时 24.0\; 截止 2026-11-06\; 状态 todo\; 班级 序号3
+ 4 机器学习与深度学习技术实操培训班\; 平台类型=班级(b
+ usinessType=5)；platform_id=901513cf-2e48-455e-8f34-85f8eb574ec0；busine
+ ss_id=3d23fc53-5a4c-421e-8800-55bc9ff61f54；开始=2026-11-02；学时归
+ 属=集中培训（线下）；报名截止=2026-11-02
+URL:https://mooc.ctt.cn/#/train-new/class-detail/3d23fc53-5a4c-421e-8800-5
+ 5bc9ff61f54
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:【截止】必修 · 必修任务 #1（还差 1 天）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:793fb4c2d4@tobacco-mooc-study
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261231
+SUMMARY:【截止】必修 · 必修任务 #2（还差 56 天）
+DESCRIPTION:学时 2.0\; 截止 2026-12-31\; 状态 todo\; 平台类型=
+ 专题(businessType=2)；platform_id=b7b99cfc-9ab1-4a36-8217-394d85c3eaea
+ ；business_id=edd3de94-7323-4cda-a4df-6a073089f3b2；开始=2026-03-09；
+ 时长为估值2.0学时（平台未返回 duration）
+URL:https://mooc.ctt.cn/#/study/subject/detail/edd3de94-7323-4cda-a4df-6a0
+ 73089f3b2
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:【截止】必修 · 必修任务 #2（还差 56 天）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e92c8f7d63@tobacco-mooc-study
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261231
+SUMMARY:【截止】必修 · 必修任务 #3（还差 56 天）
+DESCRIPTION:学时 2.0\; 截止 2026-12-31\; 状态 todo\; 平台类型=
+ 专题(businessType=2)；platform_id=e767b119-6b43-42f3-a584-e35e144ad6b2
+ ；business_id=8e930e92-8984-43b5-812b-743a02fafe0f；开始=2026-03-09；
+ 时长为估值2.0学时（平台未返回 duration）
+URL:https://mooc.ctt.cn/#/study/subject/detail/8e930e92-8984-43b5-812b-743
+ a02fafe0f
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:【截止】必修 · 必修任务 #3（还差 56 天）
+END:VALARM
+END:VEVENT
+END:VCALENDAR
